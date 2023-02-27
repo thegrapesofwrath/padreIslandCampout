@@ -24,7 +24,13 @@ Wilderness - no amenities, electricity or fuel
 
 **Location**: Johnson Space Center
 
-[website](https://spacecenter.org/moon2marsfestival/)
+[Purchase Tickets](https://spacecenter.org/moon2marsfestival/)
+
+```
+Our annual Moon 2 Mars Festival is all about bringing people and space closer together. At its core, this festival is a celebration of the innovators and the innovations that power space exploration – to the Moon, Mars and beyond. This space-themed festival features family-friendly activities and live music, along with tasty bites and exciting space exploration experiences. 
+```
+
+![](img/2023-02-27-14-21-55.png)
 
 ## Day 3 (03/20) - Corpus Christi Drive
 
